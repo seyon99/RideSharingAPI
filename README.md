@@ -9,6 +9,7 @@ A microservices REST API backend for a ride sharing app. The API has three micro
 - MongoDB
 - PostgreSQL
 - Neo4j
+- Docker
 
 Each microservice utilizes a different database technology, with MongoDB being used for the Trip Information microservice, PostgreSQL for the User microservice, and Neo4j being used for the Location microservice.
 
