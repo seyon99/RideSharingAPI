@@ -13,6 +13,10 @@ A microservices REST API backend for a ride sharing app. The API has three micro
 
 Each microservice utilizes a different database technology, with MongoDB being used for the Trip Information microservice, PostgreSQL for the User microservice, and Neo4j being used for the Location microservice.
 
-## Documentation
+## Building/running
 
-To be created shortly...
+    git clone https://github.com/seyon99/RideSharingAPI/
+    cd RideSharingAPI
+    docker-compose up --build -d
+
+View Javadoc comments to learn about specific endpoints and their parameters. After building, make use of Postman, cURL, or whichever method you prefer to make API requests.
