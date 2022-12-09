@@ -19,4 +19,4 @@ Each microservice utilizes a different database technology, with MongoDB being u
     cd RideSharingAPI
     docker-compose up --build -d
 
-View Javadoc comments to learn about specific endpoints and their parameters. After building, make use of Postman, cURL, or whichever method you prefer to make API requests.
+View the Javadoc comments to learn about specific endpoints and their parameters. After building, make use of Postman, cURL, or whichever method you prefer to make API requests.
